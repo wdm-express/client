@@ -5,8 +5,6 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <header>
-    <img alt="WDM logo" class="logo white" src="@/assets/wdm-express-white-logo.png" width="125" height="125" />
-    <img alt="WDM logo" class="logo black" src="@/assets/wdm-express-black-logo.png" width="125" height="125" />
     <div class="wrapper">
       <HelloWorld msg="WDM EXPRESS" />
 

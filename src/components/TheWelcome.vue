@@ -10,7 +10,7 @@ import IconComments from "@/components/icons/IconComments.vue";
 <template>
   <WelcomeItem>
     <template #icon>
-      <IconTruck class="text-gray-500"/>
+      <IconTruck/>
     </template>
     <template #heading>Fleet</template>
     Our fleet of well-serviced box trucks is designed for reliable and efficient delivery. Regularly maintained and

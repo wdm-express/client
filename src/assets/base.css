@@ -61,7 +61,11 @@
 body {
   min-height: 100vh;
   color: var(--color-text);
-  background: var(--color-background);
+  background-image: url("@/assets/images/night-truck.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  backdrop-filter: blur(8px) brightness(30%);
   transition:
     color 0.5s,
     background-color 0.5s;
