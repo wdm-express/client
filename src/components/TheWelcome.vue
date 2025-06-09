@@ -57,8 +57,6 @@ import IconComments from "@/components/icons/IconComments.vue";
     <br>
 
     Call us: <a class="underline font-bold" href="tel:+14407091601">+1 (440) 709-1601</a>
-    <br>
-    Text us: <a class="underline font-bold" href="mailto:dispatch@wdm.express">dispatch@wdm.express</a>
 
   </WelcomeItem>
 </template>
